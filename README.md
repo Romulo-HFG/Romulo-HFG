@@ -3,7 +3,7 @@
 ---
 <div>
 <a href="https://github.com/Romulo-HFG">
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Romulo-HFG&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/></a> 
+<img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=Romulo-HFG&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/></a> 
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-HFG&layout=compact&theme=radical&hide_border=true" /></a> 
 </div>
 
