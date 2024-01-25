@@ -1,5 +1,5 @@
-<svg fill="none" viewBox=" 0 600 300" width="1600px" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
+<svg fill="none" viewBox="   0" width="1800" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="160px">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
       
@@ -11,6 +11,7 @@
 }
 div{
   font-family: Cinzel Decorative, serif;
+ margin-top: 30px
 }
 body {
   display: flex;
@@ -37,24 +38,24 @@ h2 span {
     color: #fff;
     filter:hue-rotate(0deg);
     text-shadow: 0 0 10px #00b3ff,
+    0 0 5px #00b3ff,
     0 0 10px #00b3ff,
     0 0 20px #00b3ff,
-    0 0 40px #00b3ff,
-    0 0 60px #00b3ff,
+    0 0 30px #00b3ff,
+    0 0 50px #00b3ff,
     0 0 100px #00b3ff,
-    0 0 150px #00b3ff,
-    0 0 200px #00b3ff;
+    0 0 1px #00b3ff;
   }
   30%,70%
   { 
     color: #fff;
     filter:  hue-rotate(360deg);
     text-shadow: 0 0 10px #00b3ff,
+    0 0 5px #00b3ff,
     0 0 10px #00b3ff,
     0 0 20px #00b3ff,
-    0 0 40px #00b3ff,
-    0 0 60px #00b3ff,
-    0 0 100px #00b3ff,
+    0 0 30px #00b3ff,
+    0 0 50px #00b3ff,
   }
   100%
   {
@@ -73,17 +74,17 @@ h2 span {
     <span style="--i:4;">!</span>
     <span style="--i:5;">!</span>
     <span style="--i:6;">!</span>
-    <span style="--i:7;margin-left:1vw;">S</span>
+    <span style="--i:7;margin-left:2vw;">S</span>
     <span style="--i:8;">O</span>
     <span style="--i:9;">U</span>
-    <span style="--i:10;margin-left:1vw;">O</span>
-    <span style="--i:11;margin-left:1vw;">R</span>
+    <span style="--i:10;margin-left:3vw;">O</span>
+    <span style="--i:11;margin-left:3vw;">R</span>
     <span style="--i:12;">Ô</span>
     <span style="--i:13;">M</span>
     <span style="--i:14;">U</span>
     <span style="--i:15;">L</span>
     <span style="--i:16;">O</span>
-    <span style="--i:17;margin-left:1vw;">H</span>
+    <span style="--i:17;margin-left:3vw;">H</span>
     <span style="--i:18;">E</span>
     <span style="--i:19;">N</span>
     <span style="--i:20;">R</span>
