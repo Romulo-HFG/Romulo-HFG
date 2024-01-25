@@ -37,25 +37,25 @@ h2 span {
   {
     color: #fff;
     filter:hue-rotate(0deg);
-    text-shadow: 0 0 5px #00b3ff,
-    0 0 5px #00b3ff,
-    0 0 10px #00b3ff,
-    0 0 20px #00b3ff,
-    0 0 30px #00b3ff,
-    0 0 50px #00b3ff,
-    0 0 100px #00b3ff,
+    text-shadow: 0 0 2px #00b3ff,
+    0 0 2px #00b3ff,
+    0 0 4px #00b3ff,
+    0 0 8px #00b3ff,
+    0 0 16px #00b3ff,
+    0 0 32px #00b3ff,
+    0 0 64px #00b3ff,
     0 0 1px #00b3ff;
   }
   30%,70%
   { 
     color: #fff;
     filter:  hue-rotate(360deg);
-    text-shadow: 0 0 5px #00b3ff,
-    0 0 5px #00b3ff,
-    0 0 10px #00b3ff,
-    0 0 20px #00b3ff,
-    0 0 30px #00b3ff,
-    0 0 50px #00b3ff,
+    text-shadow: 0 0 2px #00b3ff,
+    0 0 2px #00b3ff,
+    0 0 4px #00b3ff,
+    0 0 8px #00b3ff,
+    0 0 16px #00b3ff,
+    0 0 32px #00b3ff,
   }
   100%
   {
