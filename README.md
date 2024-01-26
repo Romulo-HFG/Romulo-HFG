@@ -9,7 +9,6 @@
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Romulo-HFG)---------------------
 
 <div>
-<img src="https://github.com/Romulo-HFG/Romulo-HFG/blob/main/transparente.png"
 <a href="https://github.com/Romulo-HFG" >
 <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=Romulo-HFG&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/></a> 
 <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-HFG&layout=compact&theme=radical&hide_border=true" /></a> 
