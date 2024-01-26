@@ -38,6 +38,15 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rect/rect-original.svg" />
 
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="center" height="30" width="40" src="https://github.com/Romulo-HFG/Romulo-HFG/assets/157440587/daec7049-a876-428b-a4b7-3b9b0ed57b04" />
+
+          
+         
+
+          
           
 
           
