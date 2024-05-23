@@ -10,10 +10,10 @@
 
 <div>
    <a href="https://github.com/Romulo-HFG/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Romulo-HFG&theme=radical" />
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Romulo-HFG&theme=radical" />
 </a>
 <a href="https://github.com/Romulo-HFG/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Romulo-hfg&layout=compact&theme=radical&langs_count=8&card_width=320" />
+  <img height=475 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Romulo-hfg&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 </div>
 
